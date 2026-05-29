@@ -1,7 +1,7 @@
 ---
 title: PrivSend — Simple Private Token Transfer
 app_type: privsend
-wallet: 0xCb433105E076CF42FFAAb1e37e03755287f42DD5
+wallet: 0x79452f02f97D3f63e1A543F7aF79B27B3e784226
 ---
 
 Create a clean, simple, and beautiful web application called "PrivSend" — a privacy-focused token transfer tool that allows users to send tokens anonymously across chains.
